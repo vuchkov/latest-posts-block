@@ -1,6 +1,11 @@
 ## WordPress Plugin - Latest Posts Block
 - Uses Gutenberg, Rest API and React JS
 
+### Requirements
+- Wordpress 6+
+- PHP 8.1+
+- NodeJS v22+ (React `npm build`)
+
 ### Installation
 - Go to the WordPress plugins folder: `cd wp-content/plugins` 
 - Clone the plugin repo`git clone git@github.com:vuchkov/latest-posts-block.git`

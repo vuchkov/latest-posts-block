@@ -16,7 +16,7 @@ Inside the plugin folder are the following files:
 **Build the ReactJS Code**:
 - Go to the plugin folder: `cd wp-content/plugins/latest-posts-block`
 - Install dependencies: `npm init -y && npm install @wordpress/scripts --save-dev`
-- Add a `package.json` file with the following content:
+- Check the `package.json` file about the following content:
 ```
 {
   "scripts": {
@@ -27,6 +27,7 @@ Inside the plugin folder are the following files:
     "@wordpress/scripts": "^24.0.0"
   }
 }
+...
 ```
 - Run the build process: `npm run build`
 

@@ -5,5 +5,20 @@
   },
   "devDependencies": {
     "@wordpress/scripts": "^30.9.0"
-  }
+  },
+  "name": "latest-posts-block",
+  "description": "- Uses Gutenberg, Rest API and React JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuchkov/latest-posts-block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuchkov/latest-posts-block/issues"
+  },
+  "homepage": "https://github.com/vuchkov/latest-posts-block#readme"
 }
